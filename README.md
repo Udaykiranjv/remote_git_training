@@ -1,2 +1,2 @@
 # remote_git_training
-new line
+new line.
